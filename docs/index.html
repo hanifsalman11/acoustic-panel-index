@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AcousticSabinIndex — Room RT60 Reverb, Acoustic Panel Count, MLV & Green Glue Calculator (2026)</title>
+  <meta name="description" content="Calculate exact room reverberation time (Wallace Sabine RT60 formula), 24x48 fiberglass acoustic panel and corner bass trap counts, Mass Loaded Vinyl (MLV) rolls, and Green Glue tubes for studios, home theaters, offices, and gyms.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/acoustic-panel-index/">
+  <link rel="alternate" type="application/rss+xml" title="AcousticSabinIndex RSS Feed" href="https://hanifsalman11.github.io/acoustic-panel-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-violet-500 text-zinc-950 px-2 py-0.5 rounded font-black">ACOUSTIC</span>SabinIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=24x48%2BAcoustic%2BPanels%2BFiberglass%2BMass%2BLoaded%2BVinyl%2BGreen%2BGlue%2BBass%2BTraps&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-violet-500 hover:bg-violet-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Acoustic Panels, MLV Barrier Rolls & Green Glue on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Room Acoustics $RT_{60}$, 2'×4' Panel, MLV & Green Glue Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your studio, home theater, or acoustic material below to calculate Wallace Sabine $RT_{60}$ absorption Sabins, 24"×48" panel and bass trap quantities, Mass Loaded Vinyl rolls, and Green Glue tubes.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search room size or material (e.g. 12x15 Studio, Home Theater, Podcast Booth, Owens Corning 703, Mass Loaded Vinyl, Green Glue...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-violet-500">
+      </div>
+    </div>
+
+    <div id="acGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="14189-ft-dedicated-dolby-atmos-home-theater-acoustic-sizing-rt60-panel-mlv-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-violet-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-violet-500 text-zinc-950 px-2.5 py-0.5 rounded">35× 2'×4' Panels (272 Sabins)</span>
+            <span class="text-xs text-zinc-400">MLV: 7 Rolls | 0.35s RT60</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-violet-400 transition">14×18×9 Ft Dedicated Dolby Atmos Home Theater Acoustic Sizing</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact Sabine RT60 reverb reduction (2.45s to 0.35s), 2'×4' acoustic panels (35 panels + 6 bass traps = 272.1 Sabins), 7 rolls MLV, and 36 Green Glue tubes for 14×18×9 Ft Dedicated Dolby Atmos Home Theater Acoustic Sizing.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-violet-400">Calculate RT60, Panels & MLV Rolls →</span>
+        </a>
+        <a href="12158-ft-home-mixing-mastering-studio-acoustic-sizing-rt60-panel-mlv-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-violet-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-violet-500 text-zinc-950 px-2.5 py-0.5 rounded">21× 2'×4' Panels (168 Sabins)</span>
+            <span class="text-xs text-zinc-400">MLV: 5 Rolls | 0.35s RT60</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-violet-400 transition">12×15×8 Ft Home Mixing & Mastering Studio Acoustic Sizing</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact Sabine RT60 reverb reduction (2.12s to 0.35s), 2'×4' acoustic panels (21 panels + 6 bass traps = 168.3 Sabins), 5 rolls MLV, and 28 Green Glue tubes for 12×15×8 Ft Home Mixing & Mastering Studio Acoustic Sizing.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-violet-400">Calculate RT60, Panels & MLV Rolls →</span>
+        </a>
+        <a href="10128-ft-podcast-vocal-recording-booth-acoustic-sizing-rt60-panel-mlv-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-violet-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-violet-500 text-zinc-950 px-2.5 py-0.5 rounded">17× 2'×4' Panels (131 Sabins)</span>
+            <span class="text-xs text-zinc-400">MLV: 4 Rolls | 0.3s RT60</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-violet-400 transition">10×12×8 Ft Podcast & Vocal Recording Booth Acoustic Sizing</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact Sabine RT60 reverb reduction (1.89s to 0.3s), 2'×4' acoustic panels (17 panels + 4 bass traps = 131.9 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 10×12×8 Ft Podcast & Vocal Recording Booth Acoustic Sizing.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-violet-400">Calculate RT60, Panels & MLV Rolls →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 AcousticSabinIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('acGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

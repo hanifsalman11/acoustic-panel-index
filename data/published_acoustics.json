@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "room_name": "10×12×8 Ft Podcast & Vocal Recording Booth Acoustic Sizing",
+    "slug": "10128-ft-podcast-vocal-recording-booth-acoustic-sizing-rt60-panel-mlv-calculator",
+    "title": "10×12×8 Ft Podcast & Vocal Recording Booth Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.89s to 0.3s), 2'×4' acoustic panels (17 panels + 4 bass traps = 131.9 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 10×12×8 Ft Podcast & Vocal Recording Booth Acoustic Sizing.",
+    "panels": 17,
+    "sabins": 131,
+    "mlv": 4,
+    "rt60": 0.3,
+    "date": "2026-11-11"
+  },
+  {
+    "room_name": "12×15×8 Ft Home Mixing & Mastering Studio Acoustic Sizing",
+    "slug": "12158-ft-home-mixing-mastering-studio-acoustic-sizing-rt60-panel-mlv-calculator",
+    "title": "12×15×8 Ft Home Mixing & Mastering Studio Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.12s to 0.35s), 2'×4' acoustic panels (21 panels + 6 bass traps = 168.3 Sabins), 5 rolls MLV, and 28 Green Glue tubes for 12×15×8 Ft Home Mixing & Mastering Studio Acoustic Sizing.",
+    "panels": 21,
+    "sabins": 168,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-11"
+  },
+  {
+    "room_name": "14×18×9 Ft Dedicated Dolby Atmos Home Theater Acoustic Sizing",
+    "slug": "14189-ft-dedicated-dolby-atmos-home-theater-acoustic-sizing-rt60-panel-mlv-calculator",
+    "title": "14×18×9 Ft Dedicated Dolby Atmos Home Theater Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.45s to 0.35s), 2'×4' acoustic panels (35 panels + 6 bass traps = 272.1 Sabins), 7 rolls MLV, and 36 Green Glue tubes for 14×18×9 Ft Dedicated Dolby Atmos Home Theater Acoustic Sizing.",
+    "panels": 35,
+    "sabins": 272,
+    "mlv": 7,
+    "rt60": 0.35,
+    "date": "2026-11-11"
+  }
+]

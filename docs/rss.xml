@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AcousticSabinIndex Room Acoustics RT60 & Soundproofing Database</title>
+    <link>https://hanifsalman11.github.io/acoustic-panel-index/</link>
+    <description>Interactive Sabine RT60 Reverb, 2x4 Acoustic Panel, Mass Loaded Vinyl & Green Glue Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/acoustic-panel-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>14×18×9 Ft Dedicated Dolby Atmos Home Theater Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/acoustic-panel-index/14189-ft-dedicated-dolby-atmos-home-theater-acoustic-sizing-rt60-panel-mlv-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/acoustic-panel-index/14189-ft-dedicated-dolby-atmos-home-theater-acoustic-sizing-rt60-panel-mlv-calculator.html</guid>
+      <description>Calculate exact Sabine RT60 reverb reduction (2.45s to 0.35s), 2'×4' acoustic panels (35 panels + 6 bass traps = 272.1 Sabins), 7 rolls MLV, and 36 Green Glue tubes for 14×18×9 Ft Dedicated Dolby Atmos Home Theater Acoustic Sizing.</description>
+    </item>
+    <item>
+      <title>12×15×8 Ft Home Mixing & Mastering Studio Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/acoustic-panel-index/12158-ft-home-mixing-mastering-studio-acoustic-sizing-rt60-panel-mlv-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/acoustic-panel-index/12158-ft-home-mixing-mastering-studio-acoustic-sizing-rt60-panel-mlv-calculator.html</guid>
+      <description>Calculate exact Sabine RT60 reverb reduction (2.12s to 0.35s), 2'×4' acoustic panels (21 panels + 6 bass traps = 168.3 Sabins), 5 rolls MLV, and 28 Green Glue tubes for 12×15×8 Ft Home Mixing & Mastering Studio Acoustic Sizing.</description>
+    </item>
+    <item>
+      <title>10×12×8 Ft Podcast & Vocal Recording Booth Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/acoustic-panel-index/10128-ft-podcast-vocal-recording-booth-acoustic-sizing-rt60-panel-mlv-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/acoustic-panel-index/10128-ft-podcast-vocal-recording-booth-acoustic-sizing-rt60-panel-mlv-calculator.html</guid>
+      <description>Calculate exact Sabine RT60 reverb reduction (1.89s to 0.3s), 2'×4' acoustic panels (17 panels + 4 bass traps = 131.9 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 10×12×8 Ft Podcast & Vocal Recording Booth Acoustic Sizing.</description>
+    </item>
+  </channel>
+</rss>
