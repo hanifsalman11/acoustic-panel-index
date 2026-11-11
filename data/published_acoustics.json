@@ -31,5 +31,38 @@
     "mlv": 7,
     "rt60": 0.35,
     "date": "2026-11-11"
+  },
+  {
+    "room_name": "16×22×9 Ft Basement Home Theater & Media Room Sizing",
+    "slug": "16229-ft-basement-home-theater-media-room-sizing-rt60-panel-mlv-calculator",
+    "title": "16×22×9 Ft Basement Home Theater & Media Room Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.66s to 0.4s), 2'×4' acoustic panels (42 panels + 8 bass traps = 329.8 Sabins), 8 rolls MLV, and 44 Green Glue tubes for 16×22×9 Ft Basement Home Theater & Media Room Sizing.",
+    "panels": 42,
+    "sabins": 329,
+    "mlv": 8,
+    "rt60": 0.4,
+    "date": "2026-11-11"
+  },
+  {
+    "room_name": "10×10×8 Ft Spare Bedroom Streamer & YouTube Studio Sizing",
+    "slug": "10108-ft-spare-bedroom-streamer-youtube-studio-sizing-rt60-panel-mlv-calculator",
+    "title": "10×10×8 Ft Spare Bedroom Streamer & YouTube Studio Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.8s to 0.32s), 2'×4' acoustic panels (14 panels + 4 bass traps = 100.7 Sabins), 4 rolls MLV, and 20 Green Glue tubes for 10×10×8 Ft Spare Bedroom Streamer & YouTube Studio Sizing.",
+    "panels": 14,
+    "sabins": 100,
+    "mlv": 4,
+    "rt60": 0.32,
+    "date": "2026-11-11"
+  },
+  {
+    "room_name": "12×12×8 Ft Square Room Standing-Wave & Bass Trap Sizing",
+    "slug": "12128-ft-square-room-standing-wave-bass-trap-sizing-rt60-panel-mlv-calculator",
+    "title": "12×12×8 Ft Square Room Standing-Wave & Bass Trap Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.0s to 0.35s), 2'×4' acoustic panels (16 panels + 4 bass traps = 133.1 Sabins), 5 rolls MLV, and 24 Green Glue tubes for 12×12×8 Ft Square Room Standing-Wave & Bass Trap Sizing.",
+    "panels": 16,
+    "sabins": 133,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-11"
   }
 ]
