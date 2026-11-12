@@ -97,5 +97,38 @@
     "mlv": 18,
     "rt60": 0.55,
     "date": "2026-11-12"
+  },
+  {
+    "room_name": "40×60×16 Ft Church Sanctuary & Gymnasium Acoustic Panel Sizing",
+    "slug": "406016-ft-church-sanctuary-gymnasium-acoustic-panel-sizing-rt60-panel-mlv-calculator",
+    "title": "40×60×16 Ft Church Sanctuary & Gymnasium Acoustic Panel Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (5.6s to 0.65s), 2'×4' acoustic panels (320 panels + 8 bass traps = 2558.8 Sabins), 34 rolls MLV, and 200 Green Glue tubes for 40×60×16 Ft Church Sanctuary & Gymnasium Acoustic Panel Sizing.",
+    "panels": 320,
+    "sabins": 2558,
+    "mlv": 34,
+    "rt60": 0.65,
+    "date": "2026-11-12"
+  },
+  {
+    "room_name": "ATS Acoustics 24\"×48\"×2\" Rigid Fiberglass Panel (NRC 1.05)",
+    "slug": "ats-acoustics-24482-rigid-fiberglass-panel-nrc-105-rt60-panel-mlv-calculator",
+    "title": "ATS Acoustics 24\"×48\"×2\" Rigid Fiberglass Panel (NRC 1.05) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.12s to 0.35s), 2'×4' acoustic panels (21 panels + 6 bass traps = 168.3 Sabins), 5 rolls MLV, and 28 Green Glue tubes for ATS Acoustics 24\"×48\"×2\" Rigid Fiberglass Panel (NRC 1.05).",
+    "panels": 21,
+    "sabins": 168,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-12"
+  },
+  {
+    "room_name": "Owens Corning 703 (2-Inch vs 4-Inch) DIY Acoustic Panel Sizing",
+    "slug": "owens-corning-703-2-inch-vs-4-inch-diy-acoustic-panel-sizing-rt60-panel-mlv-calculator",
+    "title": "Owens Corning 703 (2-Inch vs 4-Inch) DIY Acoustic Panel Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.27s to 0.35s), 2'×4' acoustic panels (25 panels + 6 bass traps = 209.3 Sabins), 6 rolls MLV, and 32 Green Glue tubes for Owens Corning 703 (2-Inch vs 4-Inch) DIY Acoustic Panel Sizing.",
+    "panels": 25,
+    "sabins": 209,
+    "mlv": 6,
+    "rt60": 0.35,
+    "date": "2026-11-12"
   }
 ]
