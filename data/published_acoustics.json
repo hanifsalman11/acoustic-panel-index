@@ -130,5 +130,38 @@
     "mlv": 6,
     "rt60": 0.35,
     "date": "2026-11-12"
+  },
+  {
+    "room_name": "Rockwool Safe'n'Sound (3-Inch) Studio Wall & Bass Trap Sizing",
+    "slug": "rockwool-safensound-3-inch-studio-wall-bass-trap-sizing-rt60-panel-mlv-calculator",
+    "title": "Rockwool Safe'n'Sound (3-Inch) Studio Wall & Bass Trap Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.12s to 0.35s), 2'×4' acoustic panels (21 panels + 6 bass traps = 168.3 Sabins), 5 rolls MLV, and 28 Green Glue tubes for Rockwool Safe'n'Sound (3-Inch) Studio Wall & Bass Trap Sizing.",
+    "panels": 21,
+    "sabins": 168,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-12"
+  },
+  {
+    "room_name": "Primacoustic Broadway London 12 & London 16 Room Kit Sizing",
+    "slug": "primacoustic-broadway-london-12-london-16-room-kit-sizing-rt60-panel-mlv-calculator",
+    "title": "Primacoustic Broadway London 12 & London 16 Room Kit Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.08s to 0.35s), 2'×4' acoustic panels (20 panels + 4 bass traps = 156.6 Sabins), 5 rolls MLV, and 26 Green Glue tubes for Primacoustic Broadway London 12 & London 16 Room Kit Sizing.",
+    "panels": 20,
+    "sabins": 156,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-12"
+  },
+  {
+    "room_name": "GIK Acoustics 242 Panels & 244 Bass Traps Room Sizing",
+    "slug": "gik-acoustics-242-panels-244-bass-traps-room-sizing-rt60-panel-mlv-calculator",
+    "title": "GIK Acoustics 242 Panels & 244 Bass Traps Room Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.27s to 0.35s), 2'×4' acoustic panels (25 panels + 6 bass traps = 209.3 Sabins), 6 rolls MLV, and 32 Green Glue tubes for GIK Acoustics 242 Panels & 244 Bass Traps Room Sizing.",
+    "panels": 25,
+    "sabins": 209,
+    "mlv": 6,
+    "rt60": 0.35,
+    "date": "2026-11-12"
   }
 ]
