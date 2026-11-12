@@ -64,5 +64,38 @@
     "mlv": 5,
     "rt60": 0.35,
     "date": "2026-11-11"
+  },
+  {
+    "room_name": "15×20×10 Ft Live Drum & Band Rehearsal Room Soundproofing",
+    "slug": "152010-ft-live-drum-band-rehearsal-room-soundproofing-rt60-panel-mlv-calculator",
+    "title": "15×20×10 Ft Live Drum & Band Rehearsal Room Soundproofing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.69s to 0.42s), 2'×4' acoustic panels (36 panels + 8 bass traps = 295.4 Sabins), 8 rolls MLV, and 44 Green Glue tubes for 15×20×10 Ft Live Drum & Band Rehearsal Room Soundproofing.",
+    "panels": 36,
+    "sabins": 295,
+    "mlv": 8,
+    "rt60": 0.42,
+    "date": "2026-11-12"
+  },
+  {
+    "room_name": "20×30×10 Ft Commercial Open Office & Conference Room Reverb",
+    "slug": "203010-ft-commercial-open-office-conference-room-reverb-rt60-panel-mlv-calculator",
+    "title": "20×30×10 Ft Commercial Open Office & Conference Room Reverb RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.18s to 0.5s), 2'×4' acoustic panels (66 panels + 8 bass traps = 495.6 Sabins), 11 rolls MLV, and 64 Green Glue tubes for 20×30×10 Ft Commercial Open Office & Conference Room Reverb.",
+    "panels": 66,
+    "sabins": 495,
+    "mlv": 11,
+    "rt60": 0.5,
+    "date": "2026-11-12"
+  },
+  {
+    "room_name": "30×40×12 Ft Restaurant & Dining Hall Crowd Noise Control",
+    "slug": "304012-ft-restaurant-dining-hall-crowd-noise-control-rt60-panel-mlv-calculator",
+    "title": "30×40×12 Ft Restaurant & Dining Hall Crowd Noise Control RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (4.12s to 0.55s), 2'×4' acoustic panels (147 panels + 8 bass traps = 1111.5 Sabins), 18 rolls MLV, and 106 Green Glue tubes for 30×40×12 Ft Restaurant & Dining Hall Crowd Noise Control.",
+    "panels": 147,
+    "sabins": 1111,
+    "mlv": 18,
+    "rt60": 0.55,
+    "date": "2026-11-12"
   }
 ]
