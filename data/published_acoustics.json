@@ -196,5 +196,38 @@
     "mlv": 6,
     "rt60": 0.35,
     "date": "2026-11-13"
+  },
+  {
+    "room_name": "2-Inch Polyurethane Acoustic Foam vs 2-Inch Fiberglass (NRC)",
+    "slug": "2-inch-polyurethane-acoustic-foam-vs-2-inch-fiberglass-nrc-rt60-panel-mlv-calculator",
+    "title": "2-Inch Polyurethane Acoustic Foam vs 2-Inch Fiberglass (NRC) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.89s to 0.35s), 2'×4' acoustic panels (17 panels + 4 bass traps = 109.5 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 2-Inch Polyurethane Acoustic Foam vs 2-Inch Fiberglass (NRC).",
+    "panels": 17,
+    "sabins": 109,
+    "mlv": 4,
+    "rt60": 0.35,
+    "date": "2026-11-13"
+  },
+  {
+    "room_name": "Wood Slat Acoustic Wall Panels (Akuwoodpanel) + Backing Felt",
+    "slug": "wood-slat-acoustic-wall-panels-akuwoodpanel-backing-felt-rt60-panel-mlv-calculator",
+    "title": "Wood Slat Acoustic Wall Panels (Akuwoodpanel) + Backing Felt RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.4s), 2'×4' acoustic panels (23 panels + 6 bass traps = 153.0 Sabins), 5 rolls MLV, and 30 Green Glue tubes for Wood Slat Acoustic Wall Panels (Akuwoodpanel) + Backing Felt.",
+    "panels": 23,
+    "sabins": 153,
+    "mlv": 5,
+    "rt60": 0.4,
+    "date": "2026-11-13"
+  },
+  {
+    "room_name": "Ceiling Cloud Acoustic Baffles for Vaulted Living Room Echo",
+    "slug": "ceiling-cloud-acoustic-baffles-for-vaulted-living-room-echo-rt60-panel-mlv-calculator",
+    "title": "Ceiling Cloud Acoustic Baffles for Vaulted Living Room Echo RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.16s to 0.45s), 2'×4' acoustic panels (56 panels + 8 bass traps = 443.8 Sabins), 11 rolls MLV, and 60 Green Glue tubes for Ceiling Cloud Acoustic Baffles for Vaulted Living Room Echo.",
+    "panels": 56,
+    "sabins": 443,
+    "mlv": 11,
+    "rt60": 0.45,
+    "date": "2026-11-13"
   }
 ]
