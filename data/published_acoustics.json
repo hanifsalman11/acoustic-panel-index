@@ -163,5 +163,38 @@
     "mlv": 6,
     "rt60": 0.35,
     "date": "2026-11-12"
+  },
+  {
+    "room_name": "Mass Loaded Vinyl (MLV) 1 Lb/Sq Ft vs 2 Lb/Sq Ft STC Wall",
+    "slug": "mass-loaded-vinyl-mlv-1-lbsq-ft-vs-2-lbsq-ft-stc-wall-rt60-panel-mlv-calculator",
+    "title": "Mass Loaded Vinyl (MLV) 1 Lb/Sq Ft vs 2 Lb/Sq Ft STC Wall RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.12s to 0.35s), 2'×4' acoustic panels (22 panels + 6 bass traps = 168.3 Sabins), 5 rolls MLV, and 28 Green Glue tubes for Mass Loaded Vinyl (MLV) 1 Lb/Sq Ft vs 2 Lb/Sq Ft STC Wall.",
+    "panels": 22,
+    "sabins": 168,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-13"
+  },
+  {
+    "room_name": "Green Glue Noiseproofing Compound (28 oz Tubes) Drywall Sizing",
+    "slug": "green-glue-noiseproofing-compound-28-oz-tubes-drywall-sizing-rt60-panel-mlv-calculator",
+    "title": "Green Glue Noiseproofing Compound (28 oz Tubes) Drywall Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.25s to 0.35s), 2'×4' acoustic panels (27 panels + 6 bass traps = 211.9 Sabins), 6 rolls MLV, and 30 Green Glue tubes for Green Glue Noiseproofing Compound (28 oz Tubes) Drywall Sizing.",
+    "panels": 27,
+    "sabins": 211,
+    "mlv": 6,
+    "rt60": 0.35,
+    "date": "2026-11-13"
+  },
+  {
+    "room_name": "Resilient Sound Isolation Clips (RSIC-1) & Hat Channel Spacing",
+    "slug": "resilient-sound-isolation-clips-rsic-1-hat-channel-spacing-rt60-panel-mlv-calculator",
+    "title": "Resilient Sound Isolation Clips (RSIC-1) & Hat Channel Spacing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.25s to 0.35s), 2'×4' acoustic panels (27 panels + 6 bass traps = 211.9 Sabins), 6 rolls MLV, and 30 Green Glue tubes for Resilient Sound Isolation Clips (RSIC-1) & Hat Channel Spacing.",
+    "panels": 27,
+    "sabins": 211,
+    "mlv": 6,
+    "rt60": 0.35,
+    "date": "2026-11-13"
   }
 ]
