@@ -262,5 +262,38 @@
     "mlv": 3,
     "rt60": 0.25,
     "date": "2026-11-14"
+  },
+  {
+    "room_name": "20×20×9 Ft Two-Car Garage Workshop & Gym Soundproofing",
+    "slug": "20209-ft-two-car-garage-workshop-gym-soundproofing-rt60-panel-mlv-calculator",
+    "title": "20×20×9 Ft Two-Car Garage Workshop & Gym Soundproofing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.76s to 0.45s), 2'×4' acoustic panels (42 panels + 8 bass traps = 328.2 Sabins), 8 rolls MLV, and 46 Green Glue tubes for 20×20×9 Ft Two-Car Garage Workshop & Gym Soundproofing.",
+    "panels": 42,
+    "sabins": 328,
+    "mlv": 8,
+    "rt60": 0.45,
+    "date": "2026-11-14"
+  },
+  {
+    "room_name": "Shared Condo / Apartment Bedroom Party-Wall MLV + Green Glue",
+    "slug": "shared-condo-apartment-bedroom-party-wall-mlv-green-glue-rt60-panel-mlv-calculator",
+    "title": "Shared Condo / Apartment Bedroom Party-Wall MLV + Green Glue RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.12s to 0.38s), 2'×4' acoustic panels (20 panels + 6 bass traps = 152.4 Sabins), 5 rolls MLV, and 28 Green Glue tubes for Shared Condo / Apartment Bedroom Party-Wall MLV + Green Glue.",
+    "panels": 20,
+    "sabins": 152,
+    "mlv": 5,
+    "rt60": 0.38,
+    "date": "2026-11-14"
+  },
+  {
+    "room_name": "Home Server & Mining Rig Closet Acoustic Baffle & MLV Sizing",
+    "slug": "home-server-mining-rig-closet-acoustic-baffle-mlv-sizing-rt60-panel-mlv-calculator",
+    "title": "Home Server & Mining Rig Closet Acoustic Baffle & MLV Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.4s to 0.3s), 2'×4' acoustic panels (6 panels + 4 bass traps = 49.3 Sabins), 3 rolls MLV, and 14 Green Glue tubes for Home Server & Mining Rig Closet Acoustic Baffle & MLV Sizing.",
+    "panels": 6,
+    "sabins": 49,
+    "mlv": 3,
+    "rt60": 0.3,
+    "date": "2026-11-14"
   }
 ]
