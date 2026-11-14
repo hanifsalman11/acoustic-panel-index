@@ -295,5 +295,38 @@
     "mlv": 3,
     "rt60": 0.3,
     "date": "2026-11-14"
+  },
+  {
+    "room_name": "Indoor Pickleball & Racquet Court Perimeter Acoustic Curtain",
+    "slug": "indoor-pickleball-racquet-court-perimeter-acoustic-curtain-rt60-panel-mlv-calculator",
+    "title": "Indoor Pickleball & Racquet Court Perimeter Acoustic Curtain RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (5.53s to 0.6s), 2'×4' acoustic panels (311 panels + 8 bass traps = 2358.7 Sabins), 35 rolls MLV, and 204 Green Glue tubes for Indoor Pickleball & Racquet Court Perimeter Acoustic Curtain.",
+    "panels": 311,
+    "sabins": 2358,
+    "mlv": 35,
+    "rt60": 0.6,
+    "date": "2026-11-14"
+  },
+  {
+    "room_name": "Dog Kennel & Vet Boarding Room Washable Acoustic Baffle Sizing",
+    "slug": "dog-kennel-vet-boarding-room-washable-acoustic-baffle-sizing-rt60-panel-mlv-calculator",
+    "title": "Dog Kennel & Vet Boarding Room Washable Acoustic Baffle Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.71s to 0.45s), 2'×4' acoustic panels (42 panels + 8 bass traps = 313.8 Sabins), 8 rolls MLV, and 46 Green Glue tubes for Dog Kennel & Vet Boarding Room Washable Acoustic Baffle Sizing.",
+    "panels": 42,
+    "sabins": 313,
+    "mlv": 8,
+    "rt60": 0.45,
+    "date": "2026-11-14"
+  },
+  {
+    "room_name": "Sabine vs Eyring RT60 Reverberation Equation & Sabin Calculator",
+    "slug": "sabine-vs-eyring-rt60-reverberation-equation-sabin-calculator-rt60-panel-mlv-calculator",
+    "title": "Sabine vs Eyring RT60 Reverberation Equation & Sabin Calculator RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.22s to 0.35s), 2'×4' acoustic panels (25 panels + 6 bass traps = 192.4 Sabins), 5 rolls MLV, and 30 Green Glue tubes for Sabine vs Eyring RT60 Reverberation Equation & Sabin Calculator.",
+    "panels": 25,
+    "sabins": 192,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-14"
   }
 ]
