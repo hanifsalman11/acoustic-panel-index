@@ -229,5 +229,38 @@
     "mlv": 11,
     "rt60": 0.45,
     "date": "2026-11-13"
+  },
+  {
+    "room_name": "Home Golf Simulator Enclosure & Garage Bay Acoustic Sizing",
+    "slug": "home-golf-simulator-enclosure-garage-bay-acoustic-sizing-rt60-panel-mlv-calculator",
+    "title": "Home Golf Simulator Enclosure & Garage Bay Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.57s to 0.4s), 2'×4' acoustic panels (35 panels + 6 bass traps = 260.7 Sabins), 7 rolls MLV, and 40 Green Glue tubes for Home Golf Simulator Enclosure & Garage Bay Acoustic Sizing.",
+    "panels": 35,
+    "sabins": 260,
+    "mlv": 7,
+    "rt60": 0.4,
+    "date": "2026-11-14"
+  },
+  {
+    "room_name": "Audiophile 2-Channel Hi-Fi Listening Room RT60 & First-Reflection",
+    "slug": "audiophile-2-channel-hi-fi-listening-room-rt60-first-reflection-rt60-panel-mlv-calculator",
+    "title": "Audiophile 2-Channel Hi-Fi Listening Room RT60 & First-Reflection RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.3s to 0.38s), 2'×4' acoustic panels (26 panels + 6 bass traps = 202.2 Sabins), 6 rolls MLV, and 32 Green Glue tubes for Audiophile 2-Channel Hi-Fi Listening Room RT60 & First-Reflection.",
+    "panels": 26,
+    "sabins": 202,
+    "mlv": 6,
+    "rt60": 0.38,
+    "date": "2026-11-14"
+  },
+  {
+    "room_name": "Voiceover & Audiobook Closet Booth (6×6×8 Ft) Acoustic Sizing",
+    "slug": "voiceover-audiobook-closet-booth-668-ft-acoustic-sizing-rt60-panel-mlv-calculator",
+    "title": "Voiceover & Audiobook Closet Booth (6×6×8 Ft) Acoustic Sizing RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.27s to 0.25s), 2'×4' acoustic panels (6 panels + 4 bass traps = 45.3 Sabins), 3 rolls MLV, and 12 Green Glue tubes for Voiceover & Audiobook Closet Booth (6×6×8 Ft) Acoustic Sizing.",
+    "panels": 6,
+    "sabins": 45,
+    "mlv": 3,
+    "rt60": 0.25,
+    "date": "2026-11-14"
   }
 ]
