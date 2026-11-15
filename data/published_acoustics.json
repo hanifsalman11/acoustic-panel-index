@@ -328,5 +328,38 @@
     "mlv": 5,
     "rt60": 0.35,
     "date": "2026-11-14"
+  },
+  {
+    "room_name": "A Room",
+    "slug": "a-room-rt60-panel-mlv-calculator",
+    "title": "A Room RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.35s), 2'×4' acoustic panels (23 panels + 6 bass traps = 179.8 Sabins), 5 rolls MLV, and 30 Green Glue tubes for A Room.",
+    "panels": 23,
+    "sabins": 179,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-15"
+  },
+  {
+    "room_name": "Small Room",
+    "slug": "small-room-rt60-panel-mlv-calculator",
+    "title": "Small Room RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.35s), 2'×4' acoustic panels (23 panels + 6 bass traps = 179.8 Sabins), 5 rolls MLV, and 30 Green Glue tubes for Small Room.",
+    "panels": 23,
+    "sabins": 179,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-15"
+  },
+  {
+    "room_name": "How Many Acoustic Panels In A Box",
+    "slug": "how-many-acoustic-panels-in-a-box-rt60-panel-mlv-calculator",
+    "title": "How Many Acoustic Panels In A Box RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.35s), 2'×4' acoustic panels (23 panels + 6 bass traps = 179.8 Sabins), 5 rolls MLV, and 30 Green Glue tubes for How Many Acoustic Panels In A Box.",
+    "panels": 23,
+    "sabins": 179,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-15"
   }
 ]
