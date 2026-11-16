@@ -394,5 +394,38 @@
     "mlv": 5,
     "rt60": 0.35,
     "date": "2026-11-15"
+  },
+  {
+    "room_name": "How Much Is Acoustic Panels In Nigeria",
+    "slug": "how-much-is-acoustic-panels-in-nigeria-rt60-panel-mlv-calculator",
+    "title": "How Much Is Acoustic Panels In Nigeria RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.35s), 2'×4' acoustic panels (23 panels + 6 bass traps = 179.8 Sabins), 5 rolls MLV, and 30 Green Glue tubes for How Much Is Acoustic Panels In Nigeria.",
+    "panels": 23,
+    "sabins": 179,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-16"
+  },
+  {
+    "room_name": "Acoustic Panel",
+    "slug": "acoustic-panel-rt60-panel-mlv-calculator",
+    "title": "Acoustic Panel RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.35s), 2'×4' acoustic panels (23 panels + 6 bass traps = 179.8 Sabins), 5 rolls MLV, and 30 Green Glue tubes for Acoustic Panel.",
+    "panels": 23,
+    "sabins": 179,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-16"
+  },
+  {
+    "room_name": "Online",
+    "slug": "online-rt60-panel-mlv-calculator",
+    "title": "Online RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.35s), 2'×4' acoustic panels (23 panels + 6 bass traps = 179.8 Sabins), 5 rolls MLV, and 30 Green Glue tubes for Online.",
+    "panels": 23,
+    "sabins": 179,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-16"
   }
 ]
