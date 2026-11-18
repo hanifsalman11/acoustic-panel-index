@@ -526,5 +526,38 @@
     "mlv": 5,
     "rt60": 0.35,
     "date": "2026-11-17"
+  },
+  {
+    "room_name": "How Effective Is Green Glue",
+    "slug": "how-effective-is-green-glue-rt60-panel-mlv-calculator",
+    "title": "How Effective Is Green Glue RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.18s to 0.35s), 2'×4' acoustic panels (23 panels + 6 bass traps = 179.8 Sabins), 5 rolls MLV, and 30 Green Glue tubes for How Effective Is Green Glue.",
+    "panels": 23,
+    "sabins": 179,
+    "mlv": 5,
+    "rt60": 0.35,
+    "date": "2026-11-18"
+  },
+  {
+    "room_name": "10×11 Ft Bedroom Studio for Voiceover & Podcast (<0.30s RT60)",
+    "slug": "1011-ft-bedroom-studio-for-voiceover-podcast-030s-rt60-rt60-panel-mlv-calculator",
+    "title": "10×11 Ft Bedroom Studio for Voiceover & Podcast (<0.30s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.84s to 0.28s), 2'×4' acoustic panels (16 panels + 4 bass traps = 130.6 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 10×11 Ft Bedroom Studio for Voiceover & Podcast (<0.30s RT60).",
+    "panels": 16,
+    "sabins": 130,
+    "mlv": 4,
+    "rt60": 0.28,
+    "date": "2026-11-18"
+  },
+  {
+    "room_name": "10×11 Ft Bedroom Studio for Music Mixing & Mastering (0.35s RT60)",
+    "slug": "1011-ft-bedroom-studio-for-music-mixing-mastering-035s-rt60-rt60-panel-mlv-calculator",
+    "title": "10×11 Ft Bedroom Studio for Music Mixing & Mastering (0.35s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.84s to 0.35s), 2'×4' acoustic panels (12 panels + 4 bass traps = 99.8 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 10×11 Ft Bedroom Studio for Music Mixing & Mastering (0.35s RT60).",
+    "panels": 12,
+    "sabins": 99,
+    "mlv": 4,
+    "rt60": 0.35,
+    "date": "2026-11-18"
   }
 ]
