@@ -559,5 +559,38 @@
     "mlv": 4,
     "rt60": 0.35,
     "date": "2026-11-18"
+  },
+  {
+    "room_name": "10×11 Ft Bedroom Studio for Dolby Atmos Home Theater (0.38s RT60)",
+    "slug": "1011-ft-bedroom-studio-for-dolby-atmos-home-theater-038s-rt60-rt60-panel-mlv-calculator",
+    "title": "10×11 Ft Bedroom Studio for Dolby Atmos Home Theater (0.38s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.84s to 0.38s), 2'×4' acoustic panels (12 panels + 4 bass traps = 90.1 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 10×11 Ft Bedroom Studio for Dolby Atmos Home Theater (0.38s RT60).",
+    "panels": 12,
+    "sabins": 90,
+    "mlv": 4,
+    "rt60": 0.38,
+    "date": "2026-11-18"
+  },
+  {
+    "room_name": "10×11 Ft Bedroom Studio for Video Call & Conference Office (0.45s RT60)",
+    "slug": "1011-ft-bedroom-studio-for-video-call-conference-office-045s-rt60-rt60-panel-mlv-calculator",
+    "title": "10×11 Ft Bedroom Studio for Video Call & Conference Office (0.45s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (1.84s to 0.45s), 2'×4' acoustic panels (10 panels + 4 bass traps = 72.4 Sabins), 4 rolls MLV, and 22 Green Glue tubes for 10×11 Ft Bedroom Studio for Video Call & Conference Office (0.45s RT60).",
+    "panels": 10,
+    "sabins": 72,
+    "mlv": 4,
+    "rt60": 0.45,
+    "date": "2026-11-18"
+  },
+  {
+    "room_name": "11×14 Ft Podcast & Mixing Room for Voiceover & Podcast (<0.30s RT60)",
+    "slug": "1114-ft-podcast-mixing-room-for-voiceover-podcast-030s-rt60-rt60-panel-mlv-calculator",
+    "title": "11×14 Ft Podcast & Mixing Room for Voiceover & Podcast (<0.30s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.03s to 0.28s), 2'×4' acoustic panels (23 panels + 4 bass traps = 185.9 Sabins), 5 rolls MLV, and 26 Green Glue tubes for 11×14 Ft Podcast & Mixing Room for Voiceover & Podcast (<0.30s RT60).",
+    "panels": 23,
+    "sabins": 185,
+    "mlv": 5,
+    "rt60": 0.28,
+    "date": "2026-11-18"
   }
 ]
