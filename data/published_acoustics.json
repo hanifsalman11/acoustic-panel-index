@@ -691,5 +691,38 @@
     "mlv": 7,
     "rt60": 0.35,
     "date": "2026-11-20"
+  },
+  {
+    "room_name": "14×19 Ft Dedicated Home Theater for Dolby Atmos Home Theater (0.38s RT60)",
+    "slug": "1419-ft-dedicated-home-theater-for-dolby-atmos-home-theater-038s-rt60-rt60-panel-mlv-calculator",
+    "title": "14×19 Ft Dedicated Home Theater for Dolby Atmos Home Theater (0.38s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.48s to 0.38s), 2'×4' acoustic panels (33 panels + 6 bass traps = 261.4 Sabins), 7 rolls MLV, and 38 Green Glue tubes for 14×19 Ft Dedicated Home Theater for Dolby Atmos Home Theater (0.38s RT60).",
+    "panels": 33,
+    "sabins": 261,
+    "mlv": 7,
+    "rt60": 0.38,
+    "date": "2026-11-20"
+  },
+  {
+    "room_name": "14×19 Ft Dedicated Home Theater for Video Call & Conference Office (0.45s RT60)",
+    "slug": "1419-ft-dedicated-home-theater-for-video-call-conference-office-045s-rt60-rt60-panel-mlv-calculator",
+    "title": "14×19 Ft Dedicated Home Theater for Video Call & Conference Office (0.45s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.48s to 0.45s), 2'×4' acoustic panels (29 panels + 6 bass traps = 213.4 Sabins), 7 rolls MLV, and 38 Green Glue tubes for 14×19 Ft Dedicated Home Theater for Video Call & Conference Office (0.45s RT60).",
+    "panels": 29,
+    "sabins": 213,
+    "mlv": 7,
+    "rt60": 0.45,
+    "date": "2026-11-20"
+  },
+  {
+    "room_name": "16×24 Ft Basement Rec Room for Voiceover & Podcast (<0.30s RT60)",
+    "slug": "1624-ft-basement-rec-room-for-voiceover-podcast-030s-rt60-rt60-panel-mlv-calculator",
+    "title": "16×24 Ft Basement Rec Room for Voiceover & Podcast (<0.30s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.71s to 0.28s), 2'×4' acoustic panels (65 panels + 8 bass traps = 542.3 Sabins), 8 rolls MLV, and 46 Green Glue tubes for 16×24 Ft Basement Rec Room for Voiceover & Podcast (<0.30s RT60).",
+    "panels": 65,
+    "sabins": 542,
+    "mlv": 8,
+    "rt60": 0.28,
+    "date": "2026-11-20"
   }
 ]
