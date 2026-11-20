@@ -658,5 +658,38 @@
     "mlv": 5,
     "rt60": 0.38,
     "date": "2026-11-19"
+  },
+  {
+    "room_name": "12×16 Ft Media & Theater Room for Video Call & Conference Office (0.45s RT60)",
+    "slug": "1216-ft-media-theater-room-for-video-call-conference-office-045s-rt60-rt60-panel-mlv-calculator",
+    "title": "12×16 Ft Media & Theater Room for Video Call & Conference Office (0.45s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.22s to 0.45s), 2'×4' acoustic panels (19 panels + 6 bass traps = 141.6 Sabins), 5 rolls MLV, and 30 Green Glue tubes for 12×16 Ft Media & Theater Room for Video Call & Conference Office (0.45s RT60).",
+    "panels": 19,
+    "sabins": 141,
+    "mlv": 5,
+    "rt60": 0.45,
+    "date": "2026-11-20"
+  },
+  {
+    "room_name": "14×19 Ft Dedicated Home Theater for Voiceover & Podcast (<0.30s RT60)",
+    "slug": "1419-ft-dedicated-home-theater-for-voiceover-podcast-030s-rt60-rt60-panel-mlv-calculator",
+    "title": "14×19 Ft Dedicated Home Theater for Voiceover & Podcast (<0.30s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.48s to 0.28s), 2'×4' acoustic panels (45 panels + 6 bass traps = 371.6 Sabins), 7 rolls MLV, and 38 Green Glue tubes for 14×19 Ft Dedicated Home Theater for Voiceover & Podcast (<0.30s RT60).",
+    "panels": 45,
+    "sabins": 371,
+    "mlv": 7,
+    "rt60": 0.28,
+    "date": "2026-11-20"
+  },
+  {
+    "room_name": "14×19 Ft Dedicated Home Theater for Music Mixing & Mastering (0.35s RT60)",
+    "slug": "1419-ft-dedicated-home-theater-for-music-mixing-mastering-035s-rt60-rt60-panel-mlv-calculator",
+    "title": "14×19 Ft Dedicated Home Theater for Music Mixing & Mastering (0.35s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.48s to 0.35s), 2'×4' acoustic panels (35 panels + 6 bass traps = 287.9 Sabins), 7 rolls MLV, and 38 Green Glue tubes for 14×19 Ft Dedicated Home Theater for Music Mixing & Mastering (0.35s RT60).",
+    "panels": 35,
+    "sabins": 287,
+    "mlv": 7,
+    "rt60": 0.35,
+    "date": "2026-11-20"
   }
 ]
