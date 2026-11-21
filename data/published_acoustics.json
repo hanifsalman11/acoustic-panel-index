@@ -757,5 +757,38 @@
     "mlv": 8,
     "rt60": 0.45,
     "date": "2026-11-21"
+  },
+  {
+    "room_name": "20×25 Ft Commercial Studio / Office for Voiceover & Podcast (<0.30s RT60)",
+    "slug": "2025-ft-commercial-studio-office-for-voiceover-podcast-030s-rt60-rt60-panel-mlv-calculator",
+    "title": "20×25 Ft Commercial Studio / Office for Voiceover & Podcast (<0.30s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.07s to 0.28s), 2'×4' acoustic panels (95 panels + 8 bass traps = 795.2 Sabins), 10 rolls MLV, and 58 Green Glue tubes for 20×25 Ft Commercial Studio / Office for Voiceover & Podcast (<0.30s RT60).",
+    "panels": 95,
+    "sabins": 795,
+    "mlv": 10,
+    "rt60": 0.28,
+    "date": "2026-11-21"
+  },
+  {
+    "room_name": "20×25 Ft Commercial Studio / Office for Music Mixing & Mastering (0.35s RT60)",
+    "slug": "2025-ft-commercial-studio-office-for-music-mixing-mastering-035s-rt60-rt60-panel-mlv-calculator",
+    "title": "20×25 Ft Commercial Studio / Office for Music Mixing & Mastering (0.35s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.07s to 0.35s), 2'×4' acoustic panels (74 panels + 8 bass traps = 620.2 Sabins), 10 rolls MLV, and 58 Green Glue tubes for 20×25 Ft Commercial Studio / Office for Music Mixing & Mastering (0.35s RT60).",
+    "panels": 74,
+    "sabins": 620,
+    "mlv": 10,
+    "rt60": 0.35,
+    "date": "2026-11-21"
+  },
+  {
+    "room_name": "20×25 Ft Commercial Studio / Office for Dolby Atmos Home Theater (0.38s RT60)",
+    "slug": "2025-ft-commercial-studio-office-for-dolby-atmos-home-theater-038s-rt60-rt60-panel-mlv-calculator",
+    "title": "20×25 Ft Commercial Studio / Office for Dolby Atmos Home Theater (0.38s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.07s to 0.38s), 2'×4' acoustic panels (71 panels + 8 bass traps = 564.9 Sabins), 10 rolls MLV, and 58 Green Glue tubes for 20×25 Ft Commercial Studio / Office for Dolby Atmos Home Theater (0.38s RT60).",
+    "panels": 71,
+    "sabins": 564,
+    "mlv": 10,
+    "rt60": 0.38,
+    "date": "2026-11-21"
   }
 ]
