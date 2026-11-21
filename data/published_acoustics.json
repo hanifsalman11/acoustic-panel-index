@@ -724,5 +724,38 @@
     "mlv": 8,
     "rt60": 0.28,
     "date": "2026-11-20"
+  },
+  {
+    "room_name": "16×24 Ft Basement Rec Room for Music Mixing & Mastering (0.35s RT60)",
+    "slug": "1624-ft-basement-rec-room-for-music-mixing-mastering-035s-rt60-rt60-panel-mlv-calculator",
+    "title": "16×24 Ft Basement Rec Room for Music Mixing & Mastering (0.35s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.71s to 0.35s), 2'×4' acoustic panels (51 panels + 8 bass traps = 421.3 Sabins), 8 rolls MLV, and 46 Green Glue tubes for 16×24 Ft Basement Rec Room for Music Mixing & Mastering (0.35s RT60).",
+    "panels": 51,
+    "sabins": 421,
+    "mlv": 8,
+    "rt60": 0.35,
+    "date": "2026-11-21"
+  },
+  {
+    "room_name": "16×24 Ft Basement Rec Room for Dolby Atmos Home Theater (0.38s RT60)",
+    "slug": "1624-ft-basement-rec-room-for-dolby-atmos-home-theater-038s-rt60-rt60-panel-mlv-calculator",
+    "title": "16×24 Ft Basement Rec Room for Dolby Atmos Home Theater (0.38s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.71s to 0.38s), 2'×4' acoustic panels (48 panels + 8 bass traps = 383.1 Sabins), 8 rolls MLV, and 46 Green Glue tubes for 16×24 Ft Basement Rec Room for Dolby Atmos Home Theater (0.38s RT60).",
+    "panels": 48,
+    "sabins": 383,
+    "mlv": 8,
+    "rt60": 0.38,
+    "date": "2026-11-21"
+  },
+  {
+    "room_name": "16×24 Ft Basement Rec Room for Video Call & Conference Office (0.45s RT60)",
+    "slug": "1624-ft-basement-rec-room-for-video-call-conference-office-045s-rt60-rt60-panel-mlv-calculator",
+    "title": "16×24 Ft Basement Rec Room for Video Call & Conference Office (0.45s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (2.71s to 0.45s), 2'×4' acoustic panels (42 panels + 8 bass traps = 313.8 Sabins), 8 rolls MLV, and 46 Green Glue tubes for 16×24 Ft Basement Rec Room for Video Call & Conference Office (0.45s RT60).",
+    "panels": 42,
+    "sabins": 313,
+    "mlv": 8,
+    "rt60": 0.45,
+    "date": "2026-11-21"
   }
 ]
