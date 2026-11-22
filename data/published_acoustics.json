@@ -790,5 +790,38 @@
     "mlv": 10,
     "rt60": 0.38,
     "date": "2026-11-21"
+  },
+  {
+    "room_name": "20×25 Ft Commercial Studio / Office for Video Call & Conference Office (0.45s RT60)",
+    "slug": "2025-ft-commercial-studio-office-for-video-call-conference-office-045s-rt60-rt60-panel-mlv-calculator",
+    "title": "20×25 Ft Commercial Studio / Office for Video Call & Conference Office (0.45s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.07s to 0.45s), 2'×4' acoustic panels (62 panels + 8 bass traps = 464.6 Sabins), 10 rolls MLV, and 58 Green Glue tubes for 20×25 Ft Commercial Studio / Office for Video Call & Conference Office (0.45s RT60).",
+    "panels": 62,
+    "sabins": 464,
+    "mlv": 10,
+    "rt60": 0.45,
+    "date": "2026-11-22"
+  },
+  {
+    "room_name": "25×35 Ft Fellowship / Lecture Hall for Voiceover & Podcast (<0.30s RT60)",
+    "slug": "2535-ft-fellowship-lecture-hall-for-voiceover-podcast-030s-rt60-rt60-panel-mlv-calculator",
+    "title": "25×35 Ft Fellowship / Lecture Hall for Voiceover & Podcast (<0.30s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.84s to 0.28s), 2'×4' acoustic panels (203 panels + 8 bass traps = 1703.5 Sabins), 16 rolls MLV, and 90 Green Glue tubes for 25×35 Ft Fellowship / Lecture Hall for Voiceover & Podcast (<0.30s RT60).",
+    "panels": 203,
+    "sabins": 1703,
+    "mlv": 16,
+    "rt60": 0.28,
+    "date": "2026-11-22"
+  },
+  {
+    "room_name": "25×35 Ft Fellowship / Lecture Hall for Music Mixing & Mastering (0.35s RT60)",
+    "slug": "2535-ft-fellowship-lecture-hall-for-music-mixing-mastering-035s-rt60-rt60-panel-mlv-calculator",
+    "title": "25×35 Ft Fellowship / Lecture Hall for Music Mixing & Mastering (0.35s RT60) RT60 Reverb, Acoustic Panel & MLV Calculator (2026)",
+    "description": "Calculate exact Sabine RT60 reverb reduction (3.84s to 0.35s), 2'×4' acoustic panels (160 panels + 8 bass traps = 1336.0 Sabins), 16 rolls MLV, and 90 Green Glue tubes for 25×35 Ft Fellowship / Lecture Hall for Music Mixing & Mastering (0.35s RT60).",
+    "panels": 160,
+    "sabins": 1336,
+    "mlv": 16,
+    "rt60": 0.35,
+    "date": "2026-11-22"
   }
 ]
